@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Shruti Baikerikar 👋</h1>
 
 <div align="center">
-  <img src="https://github.com/ShrutiBaikerikar/ShrutiBaikerikar/blob/main/images/profile_banner.png" width="1200" height="400"/>
+  <img src="https://github.com/ShrutiBaikerikar/ShrutiBaikerikar/blob/main/images/profile_banner.png" width="1200" height="300"/>
 </div>
 
 <br>
