@@ -1,4 +1,4 @@
-<h1 align="left">Hello folks! 👋</h1>
+<h1 align="left">Hello! 👋</h1>
 
 <div align="center">
   <img src="https://github.com/ShrutiBaikerikar/ShrutiBaikerikar/blob/main/images/profile_banner.png" width="1200" height="300"/>
