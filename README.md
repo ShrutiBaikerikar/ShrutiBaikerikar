@@ -21,9 +21,7 @@ I am looking forward to translating biological data into meaningful insights and
 
 - 👯 I’m looking to collaborate on **projects involving bioinformatics, genomics, machine learning and deep learning.**
 
-- 📫 How to reach me **shrutibaikerikar91@gmail.com**
-
-- 📄 Know about my experiences [https://in.linkedin.com/in/shrutibaikerikar](https://in.linkedin.com/in/shrutibaikerikar)
+- 📄 Know about my professional experiences [https://in.linkedin.com/in/shrutibaikerikar](https://in.linkedin.com/in/shrutibaikerikar)
   
 </p>
 
