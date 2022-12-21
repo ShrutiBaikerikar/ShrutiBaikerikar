@@ -7,7 +7,7 @@
 <br>
 </br>
 <p>I am a bioinformatician who is very keen on accelerating drug discovery and improving healthcare by leveraging bioinformatics and genomics.</p>
-<p>As an independent researcher, I have gained expertise in the fields of RNA-Sequencing, ChIP-Sequencing, Variant Calling, and Microarray data analysis. Integrating machine learning and deep learning approaches with biological data reveals some interesting patterns like actionable, treatment-relevant information, the association between disease phenotype and gene expression, co-expression of genes and their effect on biological pathways, etc. And that's why I find them very fascinating and at the same time potentially useful.</p>
+<p>As a bioinformatician, I have gained expertise in the fields of RNA-Sequencing, ChIP-Sequencing, Variant Calling, and Microarray data analysis. Integrating machine learning and deep learning approaches with biological data reveals some interesting patterns like actionable, treatment-relevant information, the association between disease phenotype and gene expression, co-expression of genes and their effect on biological pathways, etc. And that's why I find them very fascinating and at the same time potentially useful.</p>
 I primarily code in Python and R but I have previously worked with other languages such as C, C++, and Java. 
 I am looking forward to translating biological data into meaningful insights and functional tools that can aid in faster diagnosis, early health outcome prediction, favourable treatment lines, and drug discovery and thus enhance human healthcare. 
 <br>
@@ -17,7 +17,7 @@ I am looking forward to translating biological data into meaningful insights and
 <p>
   <img align ="right" img src="https://github.com/ShrutiBaikerikar/ShrutiBaikerikar/blob/main/images/image1.jpg" width="300" height="500"/>
 
-- 🔭 I’m currently working on **ChIP-seq Data Analysis on histone mark H3K4me1 and transcription factor Nfxl1**
+- 🔭 I’m currently working on **Whole Genome Sequencing Data Analysis**
 
 - 👯 I’m looking to collaborate on **projects involving bioinformatics, genomics, machine learning and deep learning.**
 
